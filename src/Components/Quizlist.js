@@ -79,7 +79,7 @@ const QuizList = [
     },
     {
         id: 7,
-        question : "",
+        question : "Hyper Text Markup Language",
         answer : "Hyper Text Markup Language",
         view : {
             number1: "Hyper links and Text Markup Language",
@@ -105,7 +105,7 @@ const QuizList = [
     },
     {
         id: 9,
-        question : "HTML의 의미를 보기에서 고르게요!",
+        question : "jsaaaa",
         answer : "Hyper Text Markup Language",
         view : {
             number1: "Hyper links and Text Markup Language",
@@ -118,7 +118,7 @@ const QuizList = [
     },
     {
         id: 10,
-        question : "HTML의 의미를 보기에서 고르게요!",
+        question : "jsaaaabbbbbbbb",
         answer : "Hyper Text Markup Language",
         view : {
             number1: "Hyper links and Text Markup Language",
@@ -131,7 +131,7 @@ const QuizList = [
     },
     {
         id: 11,
-        question : "HTML의 의미를 보기에서 고르게요!",
+        question : "jsaaaabcccc",
         answer : "Hyper Text Markup Language",
         view : {
             number1: "Hyper links and Text Markup Language",
@@ -144,7 +144,7 @@ const QuizList = [
     },
     {
         id: 12,
-        question : "HTML의 의미를 보기에서 고르게요!",
+        question : "jsaaaa",
         answer : "Hyper Text Markup Language",
         view : {
             number1: "Hyper links and Text Markup Language",
