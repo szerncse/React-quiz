@@ -144,13 +144,13 @@ const QuizList = [
     },
     {
         id: 12,
-        question : "jsaaaa",
-        answer : "Hyper Text Markup Language",
+        question : "노란색",
+        answer : "색깔",
         view : {
-            number1: "Hyper links and Text Markup Language",
-            number2: "Home Tool Markup Language",
-            number3: "Hyper Text Markup Language",
-            number4: "Hyperlinks Tool Markup Language",
+            number1: "바나나",
+            number2: "딸기",
+            number3: "수박",
+            number4: "오렌지",
         },
         hint: "하이퍼텍스트 마크업 입니다.",
         type: "js"

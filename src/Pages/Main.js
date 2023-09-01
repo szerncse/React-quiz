@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom';
 
 
-function Main({userName, ChangeEvent, quizList, quiz, selected}) {
+function Main({userName, ChangeEvent, quizList, quiz, selected, quizCnt}) {
   
   let navigate = useNavigate();
 
@@ -53,7 +53,7 @@ function Main({userName, ChangeEvent, quizList, quiz, selected}) {
           <button className='btn-primary text-sm sm:text-base bg-green-800 hover:bg-green-700 focus:ring-green-400 basis-5/12'>개수설정</button>
           <select className='cnt border rounded basis-6/12 text-center py-1.5'onChange={ChangeEvent} defaultValue={selected}>
             {
-              Array(quizList.length).fill().map((e,i)=>{
+              Array(quizCnt).fill().map((e,i)=>{
                 return<option value={i+1} key={i}>{i+1}문제</option>
               })
             }
