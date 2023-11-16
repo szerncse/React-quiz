@@ -14,15 +14,15 @@ const QuizList = [
     },
     {
         id: 2,
-        question : "Html 요소의 (Element)의 구조가 아닌것은?",
-        answer : "Block",
+        question : "백가지 과일이 죽기 직전을 다른 말로?",
+        answer : "백과사전",
         view : {
-            number1: "Opening tag",
-            number2: "Closing tag",
-            number3: "Content , Element",
-            number4: "Block",
+            number1: "백지",
+            number2: "백구",
+            number3: "백사",
+            number4: "백과사전",
         },
-        hint: "Html 요소의 (Element)의 구조",
+        hint: "넌센스퀴즈",
         type: "html"
     },
     {
